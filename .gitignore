@@ -1,0 +1,5 @@
+# Ignore all files of a specific type (csv)
+*.csv
+
+# Ignore a specific file
+SmarTracker_Ops_Solucao_CRISPDM.ipynb
